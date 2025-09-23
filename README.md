@@ -36,6 +36,10 @@ print(“Hello world!”)
 
 # Пример вставки изображения
 
+# Ссылки
+1. [llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/README.md)
+2. [daam](https://github.com/castorini/daam)
+
 # Цитирование 
 @inproceedings{...,
     title = "...",
