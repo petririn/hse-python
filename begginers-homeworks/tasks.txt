@@ -1,6 +1,0 @@
-https://github.com/vifirsanova/hse-python-course/blob/main/workbook/1_arithmetics.ipynb  
-https://github.com/vifirsanova/hse-python-course/blob/main/workbook/2_types.ipynb  
-https://github.com/vifirsanova/hse-python-course/blob/main/workbook/3_cleaning.ipynb
-regex
-logic
-additional
